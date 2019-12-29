@@ -1,0 +1,5 @@
+requests
+sys
+json
+argparse
+pyfiglet
